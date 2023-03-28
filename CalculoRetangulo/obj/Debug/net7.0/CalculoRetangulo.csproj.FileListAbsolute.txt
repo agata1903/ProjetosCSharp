@@ -1,0 +1,15 @@
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\bin\Debug\net7.0\CalculoRetangulo.exe
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\bin\Debug\net7.0\CalculoRetangulo.deps.json
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\bin\Debug\net7.0\CalculoRetangulo.runtimeconfig.json
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\bin\Debug\net7.0\CalculoRetangulo.dll
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\bin\Debug\net7.0\CalculoRetangulo.pdb
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.csproj.AssemblyReference.cache
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.AssemblyInfoInputs.cache
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.AssemblyInfo.cs
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.dll
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\refint\CalculoRetangulo.dll
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.pdb
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\CalculoRetangulo.genruntimeconfig.cache
+C:\Users\agata\OneDrive\Documents\ProjetosC#\Curso\CalculoRetangulo\obj\Debug\net7.0\ref\CalculoRetangulo.dll
